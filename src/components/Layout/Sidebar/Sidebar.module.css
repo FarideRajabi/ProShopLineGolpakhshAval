@@ -1,0 +1,14 @@
+
+.title {
+  color: white;
+  text-align: center;
+  margin: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 0.1rem solid white;
+  line-height: 2rem;
+}
+
+.menuContainer {
+  padding: 0.25rem;
+  font-family: 'IRANSansX'  !important;
+}

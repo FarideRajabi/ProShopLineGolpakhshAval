@@ -1,0 +1,11 @@
+
+.headerTop {
+  display: flex;
+  gap: 1rem;
+  border-bottom: 0.1rem solid black;
+  margin-bottom: 1rem;
+}
+
+.description {
+  margin-bottom: 0;
+}

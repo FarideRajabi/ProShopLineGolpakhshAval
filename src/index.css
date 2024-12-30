@@ -1,0 +1,7 @@
+@import '../node_modules/antd/dist/reset.css';
+@import './assets/fonts/iranSans/font-face.css';
+@import './assets/fonts/iranSans/style.css';
+
+*, html, body {
+  font-family: 'IRANSansX'  !important;
+}

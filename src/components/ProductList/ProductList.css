@@ -1,0 +1,22 @@
+@media (max-width:412px) {
+    .search-class-mobile {
+        margin: 10px auto;
+        width: 120%;
+    }
+}
+
+.btn-newOrder{
+    background-color:rgb(59, 134, 59) ;
+    margin: 10px;
+    margin-top: 0;
+}
+
+@media (max-width:412px) {
+    .btn-newOrder{
+        margin:10px 70%;
+    }
+    .search-class {
+        margin: 15px auto;
+        width:70%;
+    }
+}

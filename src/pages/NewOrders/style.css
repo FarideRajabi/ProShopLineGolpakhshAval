@@ -1,0 +1,32 @@
+.new-orders {
+    margin: 10px;
+}
+
+.search-title {
+    display: flex;
+    align-items: stretch;
+    padding: 15px;
+    margin-top: 3vh;
+}
+
+@media(max-width:412px) {
+    .search-title {
+        font-size: x-small;
+    }
+
+    .search-title svg {
+        margin-top: -20px;
+    }
+
+    .borderStyle {
+        color: #ffc107;
+    }
+}
+
+.search-title h1:first-child {
+    margin: 5px;
+}
+
+.state-style svg {
+    font-size: 40px;
+}
